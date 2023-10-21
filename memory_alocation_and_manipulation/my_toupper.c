@@ -30,8 +30,10 @@ int my_toupper(int c)
 	return (c);
 }
 
+/*
 int main()
 {	
 	printf("%c\n", my_toupper(97));
 	return 1;
 }
+*/

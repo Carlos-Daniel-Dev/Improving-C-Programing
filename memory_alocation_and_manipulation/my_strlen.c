@@ -22,6 +22,7 @@ int my_strlen(const char* s)
 	return (quantity_of_chars);
 
 }
+/*
 
 void main()
 {
@@ -32,3 +33,5 @@ void main()
 
 	printf("%d\n", size);
 }
+
+*/

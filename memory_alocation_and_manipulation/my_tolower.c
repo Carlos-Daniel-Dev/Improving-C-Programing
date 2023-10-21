@@ -29,8 +29,10 @@ int my_tolower(int c)
 	return (c);
 }
 
+/*
 int main()
 {	
 	printf("%c\n", my_tolower(65));
 	return 1;
 }
+*/
