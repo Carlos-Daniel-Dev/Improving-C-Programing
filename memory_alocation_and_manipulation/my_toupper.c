@@ -1,8 +1,9 @@
 #include <stdio.h>
 
-int my_tolower(int c)
+int my_toupper(int c)
 {
 	/*
+
 	O char convetido para int de acordo com a
 	tabela ASCII por exemplo A -> 65.
 
@@ -12,18 +13,18 @@ int my_tolower(int c)
 	Se sim, aumentamos esse numero com mais 32 para
 	pegarmos a posiçao.
 
-	Assim pegando a versao minuscula
+	Assim pegando a versao maiuscula
 
 
 	*/
-	if (c >= 'A' && c <= 'Z')
-		c +=32;
+	if (c >= 'a' && c <= 'z')
+		c -=32;
 
 	return (c);
 }
 
 int main()
 {	
-	printf("%c\n", my_tolower(65));
+	printf("%c\n", my_toupper(97));
 	return 1;
 }
