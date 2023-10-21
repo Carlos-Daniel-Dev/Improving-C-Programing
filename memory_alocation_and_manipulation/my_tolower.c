@@ -1,5 +1,12 @@
 #include <stdio.h>
 
+/**
+ * @brief Transforms an upper case char to lower case, as per the ASCII table.
+ * 
+ * @param c a char
+ * @return int the converted char, where possible.
+ */
+
 int my_tolower(int c)
 {
 	/*
