@@ -5,7 +5,7 @@
 - [X] ft_memcpy.c
 - [X] ft_memccpy.c
 - [X] ft_memmove.c
-- [ ] ft_memchr.c
+- [X] ft_memchr.c
 - [ ] ft_memcmp.c
 - [X] ft_strlen.c
 - [ ] ft_strlcpy.c
