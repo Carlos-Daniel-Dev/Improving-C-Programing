@@ -3,8 +3,8 @@
 - [X] ft_bzero.c
 - [X] ft_memset.c
 - [X] ft_memcpy.c
-- [ ] ft_memccpy.c
-- [ ] ft_memmove.c
+- [X] ft_memccpy.c
+- [X] ft_memmove.c
 - [ ] ft_memchr.c
 - [ ] ft_memcmp.c
 - [X] ft_strlen.c

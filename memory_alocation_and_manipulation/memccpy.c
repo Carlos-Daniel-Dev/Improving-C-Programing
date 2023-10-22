@@ -29,7 +29,7 @@ void *my_memccpy(void *dest, const void *src, int c, int n) {
     return NULL;
 }
 
-
+/*
 int main()
 {
     char src[] = "Hello, this is a test string.";
@@ -52,3 +52,4 @@ int main()
 
     return 0;
 }
+*/
