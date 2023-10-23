@@ -34,6 +34,7 @@ int my_strlcat(char *dest, const char *src, int size)
 	return dest_len + src_len;
 }
 
+/*
 int main() {
     char dest[20] = "Hello";
     const char *src = ", world!";
@@ -43,3 +44,4 @@ int main() {
     printf("Length of the concatenated string: %zu\n", result);
     return 0;
 }
+*/
