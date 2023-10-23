@@ -1,14 +1,14 @@
 # Memory Alocation And Manipulation
 
-- [X] ft_bzero.c
-- [X] ft_memset.c
-- [X] ft_memcpy.c
-- [X] ft_memccpy.c
-- [X] ft_memmove.c
-- [X] ft_memchr.c
-- [X] ft_memcmp.c
-- [X] ft_strlen.c
-- [X] ft_strlcpy.c
+- [x] ft_bzero.c
+- [x] ft_memset.c
+- [x] ft_memcpy.c
+- [x] ft_memccpy.c
+- [x] ft_memmove.c
+- [x] ft_memchr.c
+- [x] ft_memcmp.c
+- [x] ft_strlen.c
+- [x] ft_strlcpy.c
 - [ ] ft_strlcat.c
 - [ ] ft_strchr.c
 - [ ] ft_strrchr.c
@@ -20,8 +20,8 @@
 - [ ] ft_isalnum.c
 - [ ] ft_isascii.c
 - [ ] ft_isprint.c
-- [X] ft_toupper.c
-- [X] ft_tolower.c
+- [x] ft_toupper.c
+- [x] ft_tolower.c
 - [ ] ft_calloc.c
 - [ ] ft_strdup.c
 - [ ] ft_substr.c
