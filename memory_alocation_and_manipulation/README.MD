@@ -10,7 +10,7 @@
 - [✅] my_strlen.c
 - [✅] my_strlcpy.c
 - [✅] my_strlcat.c
-- [ ] my_strchr.c
+- [✅] my_strchr.c
 - [ ] my_strrchr.c
 - [ ] my_strnstr.c
 - [ ] my_strncmp.c
