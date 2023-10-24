@@ -13,7 +13,7 @@
 - [✅] my_strchr.c
 - [ ] my_strrchr.c
 - [ ] my_strnstr.c
-- [ ] my_strncmp.c
+- [✅] my_strncmp.c
 - [ ] my_atoi.c
 - [ ] my_isalpha.c
 - [ ] my_isdigit.c
