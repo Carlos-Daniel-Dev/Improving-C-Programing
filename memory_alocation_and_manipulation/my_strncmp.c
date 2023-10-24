@@ -16,6 +16,7 @@ int	my_strncmp(const char *s1, const char *s2, size_t n)
 	return 0;
 }
 
+/*
 void main() {
     char str1[] = "Hello";
     char str2[] = "Hella";
@@ -24,3 +25,4 @@ void main() {
     printf("Testing my_strncmp:\n");
     printf("Comparing '%s' and '%s' for the first %d characters returns: %d\n", str1, str2, n, my_strncmp(str1, str2, n));
 }
+*/
